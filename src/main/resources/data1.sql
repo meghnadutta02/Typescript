@@ -1,0 +1,16 @@
+INSERT INTO product (name, description, brand, price, category, release_date, available, quantity) VALUES
+('Laptop X1', 'High-performance laptop with 16GB RAM', 'Lenovo', 74999.99, 'Electronics', '2023-01-10', true, 20),
+('Smartphone Z9', '5G-enabled phone with OLED display', 'Samsung', 45999.00, 'Mobiles', '2023-06-15', true, 50),
+('Bluetooth Headphones', 'Noise-cancelling over-ear headphones', 'Sony', 8999.50, 'Accessories', '2022-11-25', true, 30),
+('Smartwatch Active', 'Fitness tracking smartwatch with heart rate monitor', 'Fitbit', 12999.25, 'Wearables', '2023-03-20', true, 15),
+('Gaming Console', 'Next-gen console with ray tracing support', 'Microsoft', 48990.00, 'Gaming', '2022-09-12', true, 12),
+('Tablet Pro', '11-inch tablet with stylus support', 'Apple', 59999.00, 'Electronics', '2023-02-01', true, 25),
+('LED Monitor', '27-inch 4K UHD monitor', 'LG', 18999.99, 'Electronics', '2023-05-05', true, 18),
+('Mechanical Keyboard', 'RGB backlit gaming keyboard', 'Corsair', 6999.00, 'Accessories', '2022-10-10', true, 40),
+('Wireless Mouse', 'Ergonomic wireless mouse', 'Logitech', 1999.99, 'Accessories', '2022-08-08', true, 35),
+('External SSD', '1TB USB 3.2 portable SSD', 'Samsung', 10499.00, 'Storage', '2023-04-17', true, 22),
+('Drone Cam', '4K camera drone with GPS', 'DJI', 49990.00, 'Gadgets', '2023-01-25', true, 8),
+('Noise Cancelling Earbuds', 'Truly wireless with ANC', 'Bose', 14999.00, 'Audio', '2022-12-12', true, 28),
+('Fitness Band', 'Water-resistant with sleep tracking', 'Mi', 2999.00, 'Wearables', '2023-03-10', true, 60),
+('Smart LED Bulb', 'App-controlled multicolor smart bulb', 'Philips', 1099.00, 'Home', '2022-07-07', true, 100),
+('Air Purifier', 'HEPA filter with air quality indicator', 'Dyson', 29999.00, 'Home Appliances', '2023-06-01', true, 10);
